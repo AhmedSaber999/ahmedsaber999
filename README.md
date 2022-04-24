@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **A7mdsaber99@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-saber-talaat/](https://www.linkedin.com/in/ahmed-saber-talaat/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
