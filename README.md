@@ -279,5 +279,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSaber999&layout=compact&&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/ahmedsaber999?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSaber999&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/ahmedsaber999?tab=repositories)
 
