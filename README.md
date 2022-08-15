@@ -274,10 +274,3 @@
 
 
 
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=AhmedSaber999&hide=stars&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/ahmedsaber999?tab=repositories)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSaber999&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/ahmedsaber999?tab=repositories)
-
