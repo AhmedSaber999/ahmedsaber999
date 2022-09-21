@@ -277,11 +277,7 @@
 <hr />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsaber999&show_icons=true&locale=en&layout=compact" alt="saber" /></p>
 <hr />
-<br />
-<br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsaber999&show_icons=true&locale=en" alt="saber" /></p>
 <hr />
-<br />
-<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsaber999&" alt="saber" /></p>
 <br />
