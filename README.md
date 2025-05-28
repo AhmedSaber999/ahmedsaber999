@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Saber</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
-- 🎓 2021 graduate from Information Systems department at Faculty of computer sciences Ain Shams University.
-- 📌  Lives in Cairo, Egypt.
+- 🎓 graduated from computer sciences Ain Shams University.
 - 📫 reach me at **A7mdsaber99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
